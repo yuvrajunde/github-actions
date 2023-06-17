@@ -9,3 +9,5 @@ git reset --hard {id}
 git checkout -b "{new branch}"
 git merge {feature branch} {main branch}
 git branch -D {brnach want to delete}
+git branch -M {main branch of repo}
+git push -u origin {main branch of repo}
