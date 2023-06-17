@@ -11,3 +11,4 @@ git merge {feature branch} {main branch}
 git branch -D {brnach want to delete}
 git branch -M {main branch of repo}
 git push -u origin {main branch of repo}
+git remote set-url origin https://{gitusername}@github.com/{copied repo details.git} // user personal token as password after you hit command.
