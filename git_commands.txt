@@ -4,3 +4,5 @@ git commit -m "message"
 git log
 git revert {id}
 git reset --hard {id}
+git checkout -b "{new branch}"
+git merge {feature branch} {main branch}
